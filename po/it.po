@@ -8614,7 +8614,7 @@ msgid "This option allows you to force the HLG modes for UHD"
 msgstr "Questa opzione consente di impostare la profondità di colore per l'UHD."
 
 msgid "This option allows you to hide and sort menu entries. When selecting user you can change order and hide menu items via the blue button"
-msgstr "Questa opzione consente di impostare la modalità di ordinamento delle voci dei menu. Se si sceglie l'opzione 'Definito dall'utente', utilizzando il tasto Blu sarà possibile cambiare l'ordine ed eventualmente nascondere le voci dei principali menu."
+msgstr "Questa opzione consente di nascondere e ordinare le voci del menu. Quando si seleziona l'utente modifica l'ordine e nasconde le voci del menu tramite il pulsante blu"
 
 msgid "This option allows you to power off the display."
 msgstr "Questa opzione consente di spegnere il display."
